@@ -1,8 +1,8 @@
 # Hunter Codefest 2020-2021
 
 # Team Info
-### Team name: 
-### Team members (format: GitHub username, last name, first name):
+### Team name: Popcorn
+### Team members (format: GitHub username, last name, first name): Toyin Robinson, Quinton Negron, Elizabeth Vanegas, Maisa Ahmad, Narvisha
 
 ### Group info (check all that apply - add an X in the [ ])
 - [ ] We are a Daedalus Google Mentorship group
