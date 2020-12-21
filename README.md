@@ -2,7 +2,7 @@
 
 # Team Info
 ### Team name: Popcorn
-### Team members (format: GitHub username, last name, first name): Toyin Robinson, Quinton Negron, Elizabeth Vanegas, Maisa Ahmad, Narvisha
+### Team members (format: GitHub username, last name, first name): Toyin Robinson, Quinton Negron, Elizabeth Vanegas, Maisa Ahmad, Narvisha Sajjad, Lesly Ayala
 
 ### Group info (check all that apply - add an X in the [ ])
 - [ ] We are a Daedalus Google Mentorship group
